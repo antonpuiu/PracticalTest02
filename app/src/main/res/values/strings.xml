@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PracticalTest02</string>
+    <string name="server_port">Server port</string>
+    <string name="start_server">START SERVER</string>
+    <string name="stop_server">STOP SERVER</string>
+    <string name="client_address">Client address</string>
+    <string name="client_port">Client port</string>
+    <string name="word_querry">Word querry</string>
+    <string name="send">Send</string>
+    <string name="response">RESPONSE</string>
 </resources>
